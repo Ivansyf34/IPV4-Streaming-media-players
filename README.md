@@ -1,5 +1,16 @@
 # IPV4_流媒体广播
 
+修改src/server/server_conf.h 中的DEFAULT_MEDIADIR为自己的媒体库路径
+目录格式如下：
+media
+│   ├── ch1
+│   │   ├── desc.text
+│   │   └── 你啊你啊-林俊杰.128.mp3
+│   └── ch2
+│       ├── desc.text
+│       └── 你啊你啊-林俊杰.128.mp3
+
+
 ## 客户端
 
 #### 处理流程
