@@ -2,7 +2,7 @@
 
 修改src/server/server_conf.h 中的DEFAULT_MEDIADIR为自己的媒体库路径
 目录格式如下：
-![image](https://github.com/Ivansyf34/IPV4-Streaming-media-players/assets/93926232/acdbf518-cbff-4c97-9033-fb1381bfc045)
+- ![image](https://github.com/Ivansyf34/IPV4-Streaming-media-players/assets/93926232/acdbf518-cbff-4c97-9033-fb1381bfc045)
 
 ## 客户端
 
